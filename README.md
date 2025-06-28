@@ -25,7 +25,7 @@
 
 ## 🏆 Notable Achievements
 
-* **Fidelity eMoney Tool:** Led the modernization of a critical application (RPG) used by 3.5 million customers annually, enhancing performance and user experience[cite: 1, 15].
+* **Fidelity App:** As a senior contributor, I significantly participated in modernizing a critical Fidelity application, impacting 3.5 million annual customers. My efforts directly supported enhancing its performance and user experience.
 * **MDN Web Docs:**
     * Clarified BCE and eraYear in Temporal docs.
     * Documented labeled values for range inputs.
@@ -52,7 +52,7 @@
     * Massachusetts State Science & Engineering Fair (MSEF)
 * **Mentor:**
     * Fidelity LEAP program (for junior engineers)
-    * IEEE-HKN
+    * IEEE-HKN - Mentor
 * **Speaker:** Presented at various IEEE events, particularly on Angular architecture.
 
 
